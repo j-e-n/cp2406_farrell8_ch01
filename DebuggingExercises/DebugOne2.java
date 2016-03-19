@@ -1,6 +1,6 @@
 public class DebugOne2
 {
-   public static void main(String args)
+   public static void main(String[] args)
    {
       System.out.println("Java programming is fun.");
       System.out.println("Getting a program to work");
